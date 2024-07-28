@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDBC_Connection">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDBC_Connection</output-path>
+    <root id="archive" name="JDBC_Connection.jar" />
+  </artifact>
+</component>
